@@ -1,2 +1,3 @@
 # NFT-Generator
-get big money get cool pictures
+
+Randomly generates pictures using machine learning and artificial intelligence and converts to NFTs for selling
